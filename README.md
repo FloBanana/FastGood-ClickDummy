@@ -7,4 +7,4 @@ der Rezepte bieten sollte.
 Dies sollte so passieren, dass man die eigenen Bedürfnisse sehr feingranular eingeben kann und die App bei der 
 täglichen Frage nach dem Abendessen hilft, indem es 5 auf die eigenen Bedürfnisse abgestimmte Rezepte anzeigt.
 
-[Live demo!](http://flobanana.github.io/fast-good-click-dummy/) (optimized for mobile devices)
+[Live demo!](http://flohiwg.github.io/fast-good-click-dummy/) (optimized for mobile devices)
